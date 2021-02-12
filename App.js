@@ -6,6 +6,8 @@ export default function App() {
   let google_key = "1234544243csdsfsdfsdfsdfsdfJJJJJJJ";
   const test = () => {
     if (test) console.log("test");
+    if (test) console.log("test");
+    if (test) console.log("test");
   };
   const test = () => {
     if (test) console.log("test");
