@@ -3,6 +3,7 @@ import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 
 export default function App() {
+  let google_key = "1234544243csdsfsdfsdfsdfsdfJJJJJJJ";
   const test = () => {
     if (test) console.log("test");
   };
@@ -12,6 +13,7 @@ export default function App() {
   const test = () => {
     if (test) console.log("test");
   };
+  console.log("key", google_key);
   return (
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
