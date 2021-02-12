@@ -3,15 +3,6 @@ import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 
 export default function App() {
-  const test = () => {
-    if (test) console.log("test");
-  };
-  const test = () => {
-    if (test) console.log("test");
-  };
-  const test = () => {
-    if (test) console.log("test");
-  };
   return (
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
